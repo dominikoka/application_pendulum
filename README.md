@@ -2,7 +2,7 @@
 
 A mathematical pendulum is a material point suspended on a weightless and inextensible thread, deflected from its equilibrium position by an angle alpha. We can treat this pendulum as a heavy and small ball suspended on a rope.
 
-<img src="pendulum_photo.PNG" width="100%" height="100%">
+<img src="pendulum_photo.png" width="100%" height="100%">
 
 The figure shows the forces acting on a mathematical pendulum deflected from its equilibrium position by an angle \alpha.
 The resultant force F, forcing harmonic motion, is equal to:
